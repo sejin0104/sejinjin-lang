@@ -52,7 +52,7 @@
 ```
 import sjlang
 
-file_path = (코드 파일 위치)
+file_path = input("불러올 파일 경로를 입력하세요: ")
 
 run_from_file(file_path)
 ```
