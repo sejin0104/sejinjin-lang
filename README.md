@@ -8,10 +8,12 @@
 
 # 예제
 
+```
 세찐찐이가
 기억해라 hello = Hello, world
 말해라 (hello)
 뭔소리냐ㅋㅋ
+```
 
 해석 : hello 변수를 Hello, world로 지정하고 hello의 변수값을 출력한다는 뜻입니다
 
