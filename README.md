@@ -49,11 +49,13 @@
 
 # 실행방법
 
-```import sjlang
+`
+import sjlang
 
 file_path = (코드 파일 위치)
 
-run_from_file(file_path)```
+run_from_file(file_path)
+`
 
 코드의 확장명은 상관없이 위치 지정만 해주세요!
 test.txt여도 상관 X
