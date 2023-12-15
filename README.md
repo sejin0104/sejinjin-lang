@@ -50,7 +50,7 @@
 # 실행방법
 
 ```
-import sjlang
+from sjlang import *
 
 file_path = input("불러올 파일 경로를 입력하세요: ")
 
