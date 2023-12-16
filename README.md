@@ -1,12 +1,13 @@
-# sejinjinlang
+# English
+# Sejinjin-Lang
 
 + This is a very simple(?) code with nothing to say.
 
-# grammar
+# Grammar
 
 When you start your code, you should always write `세찐찐이가` and at the end you should write `뭔소리냐ㅋㅋ`
 
-# example
+# Example
 
 ```
 세찐찐이가
@@ -17,19 +18,19 @@ When you start your code, you should always write `세찐찐이가` and at the e
 
 Interpretation: This means that the hello variable is designated as Hello, world and the variable value of hello is output.
 
-# print
+# Print
 
 Must be written as```말해라 {variable}```
 
 example : `말해라 (hello)`
 
-# variable
+# Variable
 
 Must be written as ```기억해라 {variable} = {value}```
 
 warning : Variable values ​​must be specified unconditionally
 
-# loop
+# Loop
 
 Must be written as ```반복해라 {number} {code}```
 
@@ -65,8 +66,7 @@ library is ```pip install sjlang==1.1``` Please proceed with the Rohu installati
 
 pypi link : https://pypi.org/project/sjlang/
 
-
-
+# 한국어
 # 세찐찐랭
 
 + 진짜 할말이 없는 아주 간단한(?) 코드입니다
