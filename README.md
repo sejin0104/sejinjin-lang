@@ -1,4 +1,4 @@
-# English
+# English(Translation may not be accurate)
 # Sejinjin-Lang
 
 + This is a very simple(?) code with nothing to say.
