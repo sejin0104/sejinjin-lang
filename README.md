@@ -1,6 +1,6 @@
 # Support Server(지원 서버)
 
-+ Discord Server(디스코드 서버) : Unsupported service(지원되지 않는 서비스)
++ Discord Server(디스코드 서버) : Preparing Service (준비중인 서비스)
 + Github Issue(깃헙 이슈) : https://github.com/sejin0104/sejinjin-lang/issues
 
 # English(Translation may not be accurate)
