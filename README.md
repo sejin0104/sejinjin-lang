@@ -55,7 +55,7 @@ Set the variable to a specific value ```정해라 {변수명} {값}```
 ```
 from sjlang import *
 
-file_path = input("불러올 파일 경로를 입력하세요: ")
+file_path = input("Enter the file path to load: ")
 
 run_from_file(file_path)
 ```
