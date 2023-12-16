@@ -3,6 +3,8 @@
 
 + This is a very simple(?) code with nothing to say.
 
++ Note: This language uses Korean. You will need to type in Korean, so we recommend copying and pasting the code.
+
 # Grammar
 
 When you start your code, you should always write `세찐찐이가` and at the end you should write `뭔소리냐ㅋㅋ`
