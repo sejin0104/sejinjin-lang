@@ -63,3 +63,5 @@ run_from_file(file_path)
 test.txt여도 상관 X
 
 라이브러리는 ```pip install sjlang==1.1``` 로 설치후 진행해주세요!
+
+pypi 링크 : https://pypi.org/project/sjlang/
