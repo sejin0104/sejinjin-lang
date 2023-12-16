@@ -62,4 +62,4 @@ run_from_file(file_path)
 코드의 확장명은 상관없이 위치 지정만 해주세요!
 test.txt여도 상관 X
 
-라이브러리는 ```pip install sjlang``` 로 설치후 진행해주세요!
+라이브러리는 ```pip install sjlang==1.1``` 로 설치후 진행해주세요!
