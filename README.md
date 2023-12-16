@@ -69,7 +69,7 @@ Regardless of the extension of the code, just specify the location!
 
 For example, It doesn’t matter if it’s test.txt
 
-library is ```pip install sjlang==1.2``` Please proceed with the Rohu installation!
+library is ```pip install sjlang==1.2``` Please proceed with the pip library installation!
 
 pypi link : https://pypi.org/project/sjlang/
 
