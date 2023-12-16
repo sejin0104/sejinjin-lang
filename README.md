@@ -1,3 +1,72 @@
+# sejinjinlang
+
++ This is a very simple(?) code with nothing to say.
+
+# grammar
+
+When you start your code, you should always write `세찐찐이가` and at the end you should write `뭔소리냐ㅋㅋ`
+
+# example
+
+```
+세찐찐이가
+기억해라 hello = Hello, world
+말해라 (hello)
+뭔소리냐ㅋㅋ
+```
+
+Interpretation: This means that the hello variable is designated as Hello, world and the variable value of hello is output.
+
+# print
+
+Must be written as```말해라 {variable}```
+
+example : `말해라 (hello)`
+
+# variable
+
+Must be written as ```기억해라 {variable} = {value}```
+
+warning : Variable values ​​must be specified unconditionally
+
+# loop
+
+Must be written as ```반복해라 {number} {code}```
+
+example : ```반복해라 10 말해라 (hello)```
+
+# Variable Deepening
+
+Add a specific value to a variable with ```더해라 {variable} {value}```
+
+A string temporary value is added followed by a number (int) temporary addition.
+
+Subtract a specific value from a variable with ```빼라 {variable} {value}```
+
+Caution: Not used within strings
+
+Set the variable to a specific value ```정해라 {변수명} {값}```
+
+# How to run
+
+```
+from sjlang import *
+
+file_path = input("불러올 파일 경로를 입력하세요: ")
+
+run_from_file(file_path)
+```
+
+Regardless of the extension of the code, just specify the location!
+
+For example, It doesn’t matter if it’s test.txt
+
+library is ```pip install sjlang==1.1``` Please proceed with the Rohu installation!
+
+pypi link : https://pypi.org/project/sjlang/
+
+
+
 # 세찐찐랭
 
 + 진짜 할말이 없는 아주 간단한(?) 코드입니다
