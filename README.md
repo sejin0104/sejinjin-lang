@@ -62,7 +62,7 @@ Regardless of the extension of the code, just specify the location!
 
 For example, It doesn’t matter if it’s test.txt
 
-library is ```pip install sjlang==1.1``` Please proceed with the Rohu installation!
+library is ```pip install sjlang==1.2``` Please proceed with the Rohu installation!
 
 pypi link : https://pypi.org/project/sjlang/
 
@@ -131,6 +131,6 @@ run_from_file(file_path)
 코드의 확장명은 상관없이 위치 지정만 해주세요!
 test.txt여도 상관 X
 
-라이브러리는 ```pip install sjlang==1.1``` 로 설치후 진행해주세요!
+라이브러리는 ```pip install sjlang==1.2``` 로 설치후 진행해주세요!
 
 pypi 링크 : https://pypi.org/project/sjlang/
