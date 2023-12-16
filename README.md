@@ -1,3 +1,8 @@
+# Support Server(지원 서버)
+
++ Discord server(디스코드 서버) : Unsupported service(지원되지 않는 서비스)
++ github issue(깃헙 이슈) : https://github.com/sejin0104/sejinjin-lang/issues
+
 # English(Translation may not be accurate)
 # Sejinjin-Lang
 
