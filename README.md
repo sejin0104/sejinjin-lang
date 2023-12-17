@@ -12,7 +12,7 @@
 
 # Grammar
 
-When you start your code, you should always write `세찐찐이가` and at the end you should write `뭔소리냐ㅋㅋ`
+When you start your code, you should always write `세찐찐이가` and at the end you should write with `뭔소리냐ㅋㅋ`
 
 # Example
 
