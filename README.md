@@ -1,3 +1,8 @@
+# Archeive Project
+
+Hi, everyone! my project archeived.
+thanx
+
 # Support Server(지원 서버)
 
 + Discord Server(디스코드 서버) : Preparing Service (준비중인 서비스)
